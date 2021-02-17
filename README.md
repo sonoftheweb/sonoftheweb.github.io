@@ -1,2 +1,2 @@
-# twitter-clone
-Holberton School Project to clone Twitter
+# AR Test
+Just tinkering around
